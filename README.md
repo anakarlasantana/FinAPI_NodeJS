@@ -18,3 +18,8 @@ Regras de negócio:
  * Não deve ser possível fazer saque em uma conta não existente
  * Não deve ser possível fazer saque quando o saldo for insuficiente
  * Não deve ser possível excluir uma conta não existente
+
+Ferramentas usadas:
+* Node Js + Express
+* Nodemon 
+* Yarn
